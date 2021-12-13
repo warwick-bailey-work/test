@@ -9,12 +9,8 @@
 2. James Monroe
 3. John Quincy Adams
 
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
--! Warning !-
-@@ text in purple (and bold)@@
-```
-![Red text](http://placehold.it/size/background-hex/foreground-hex?text=a123)
+<details><summary>More</summary>
+<p>
+Comment about something
+</p>
+</details>
