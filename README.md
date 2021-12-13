@@ -5,9 +5,15 @@
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
-1. James Madison
-2. James Monroe
-3. John Quincy Adams
+Colours
+
+```diff
++ text in green
+```
+
+```diff
+- text in red
+```
 
 <details><summary>More</summary>
 <p>
