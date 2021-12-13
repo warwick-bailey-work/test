@@ -14,6 +14,6 @@
 + text in green
 ! text in orange
 # text in gray
--! Warning !-
+"-! Warning !-"
 @@ text in purple (and bold)@@
 ```
