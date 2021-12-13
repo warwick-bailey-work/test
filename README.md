@@ -7,6 +7,6 @@
 
 <details><summary>More</summary>
 <p>
-Comment about something
+Comment in the expanded
 </p>
 </details>
