@@ -8,11 +8,11 @@
 Colours
 
 ```diff
-+ text in green
++ Match Flesch Reading Ease score to the grade levels of learners. FRE score of above 60 is appropriate for IGCSE and NGSS. FRE score above 50 is appropriate for IB students.
 ```
 
 ```diff
-- text in red
+- Fully justify paragraph text because learners cannot eye track EOL when there is right-hand justification.
 ```
 
 <details><summary>More</summary>
