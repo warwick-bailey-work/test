@@ -1,19 +1,9 @@
 **This is bold text**
 
-| | |
+| Heading 1 | Heading 2 |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
-
-Colours
-
-```diff
-+ Do
-```
-
-```diff
-- Don't
-```
 
 <details><summary>More</summary>
 <p>
