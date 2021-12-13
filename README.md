@@ -8,3 +8,11 @@
 1. James Madison
 2. James Monroe
 3. John Quincy Adams
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
