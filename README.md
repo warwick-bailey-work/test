@@ -1,6 +1,10 @@
 **This is bold text**
 
-| First Header  | Second Header |
+| ```diff
++ Do
+```  | ```diff
+- Don't
+```|
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
